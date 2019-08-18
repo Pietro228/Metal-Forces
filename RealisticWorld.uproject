@@ -7,6 +7,10 @@
 		{
 			"Name": "Substance",
 			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
 		}
 	]
 }
