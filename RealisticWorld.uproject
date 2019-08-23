@@ -9,7 +9,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OnlineSubsystemSteam",
+			"Name": "OnlineFramework",
 			"Enabled": true
 		}
 	]
